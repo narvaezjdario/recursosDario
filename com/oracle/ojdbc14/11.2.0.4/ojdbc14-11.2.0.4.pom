@@ -6,4 +6,11 @@
   <artifactId>ojdbc14</artifactId>
   <version>11.2.0.4</version>
   <description>POM was created from install:install-file</description>
+  <!-- Maven Repository on Git-BitBucket -->
+    <repositories>
+    <repository>
+        <id>narvaezjdario</id>
+        <url>https://github.com/narvaezjdario/recursosDario/tree/master/</url>
+    </repository>
+    </repositories>
 </project>
