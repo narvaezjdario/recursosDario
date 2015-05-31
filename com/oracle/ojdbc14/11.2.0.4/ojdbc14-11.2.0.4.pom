@@ -3,8 +3,4 @@
   <groupId>com.oracle</groupId>
   <artifactId>ojdbc14</artifactId>
   <version>11.2.0.4</version>
-  <description>POM was created </description>
-  <distributionManagement>
-    <status>deployed</status>
-  </distributionManagement>
 </project>
